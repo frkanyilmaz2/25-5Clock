@@ -34,7 +34,7 @@ function App() {
         setDisplaySession(session);
         setSecond(0);
       }
-    }, 100);
+    }, 1000);
     return()=>{
       clearInterval(secs);
     }
