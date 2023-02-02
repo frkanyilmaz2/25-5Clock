@@ -46,7 +46,7 @@ h1 {font-size: 3rem;}
 
 .displayer{
   border: 7.5px solid darkgray;
-  width: min-content;
+  width: 200px;
   border-radius: 25%;
   padding: 10px;
   font-size: 30px;
